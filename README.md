@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently finishing my Computer Science degree
-
 ### 📈 Some Stats
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-JT&layout=compact">
