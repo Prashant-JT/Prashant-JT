@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### 📈 Some Stats
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-JT&layout=compact">
+-->
